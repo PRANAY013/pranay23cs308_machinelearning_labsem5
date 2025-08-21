@@ -1,0 +1,14 @@
+key,value
+target,survived
+numeric_final,pclass
+numeric_final,age
+numeric_final,sibsp
+numeric_final,parch
+numeric_final,fare_capped
+numeric_final,family_size
+numeric_final,is_child
+numeric_final,is_female
+categorical,sex
+categorical,embarked
+categorical,alone
+categorical,age_was_missing
